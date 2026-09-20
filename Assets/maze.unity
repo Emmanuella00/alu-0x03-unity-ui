@@ -3619,7 +3619,7 @@ GameObject:
   - component: {fileID: 1072223640}
   - component: {fileID: 1072223639}
   m_Layer: 5
-  m_Name: ' HealthBG'
+  m_Name: HealthBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
